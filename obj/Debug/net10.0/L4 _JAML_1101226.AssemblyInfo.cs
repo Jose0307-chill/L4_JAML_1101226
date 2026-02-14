@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("L4 _JAML_1101226")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be92d09a5be0b88b483ae5a6ca103bd9cf98cf5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("L4 _JAML_1101226")]
 [assembly: System.Reflection.AssemblyTitleAttribute("L4 _JAML_1101226")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
